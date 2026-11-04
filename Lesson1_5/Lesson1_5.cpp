@@ -6,6 +6,9 @@
 int main()
 {
     std::cout << "Hello World!\n";
+	
+	//int a;
+	//std::cout << a << "\n"; //prints garbage value because a is uninitialized. It is not safe to use uninitialized variables.
 
 	//in c++ std::cout is used to print to the console, but first it is written to buffer for efficiency. C++ decides when to flush the buffer. std::endl is used to end the line and flush the output buffer immediately.
 	//using std::endl is not recommended because it is less efficient than using '\n' and flushing the buffer manually when needed.
@@ -20,6 +23,16 @@ int main()
 	std::cin >> x; // read user input from console and store it in variable x
 
 	std::cout << "You entered: " << x << "\n"; // print the value of x to the console
+
+	std::cout << "Now enter 2 numbers separated by space: ";
+	int y{};
+	int z{};
+
+	std::cin >> y >> z; // read two numbers from user input and store them in variables y and z
+	std::cout << "You entered: " << y << " and " << z << "\n";
+
+	//std::cin works like std::cout. it reads input into buffer and then flushes it to the variable. It can read multiple values separated by spaces or new lines.
+	
 	return 0;
 }
 
