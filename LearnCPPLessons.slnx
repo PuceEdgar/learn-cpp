@@ -3,7 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="../Lesson2.2/Lesson2.2.vcxproj" Id="d0dbe472-ae79-48c1-bb77-1e99c761ae97" />
+  <Project Path="Lesson2.2/Lesson2.2.vcxproj" Id="d0dbe472-ae79-48c1-bb77-1e99c761ae97" />
   <Project Path="Lesson1_10/Lesson1_10.vcxproj" Id="7520f1c5-260a-4a4b-a722-a079d9aa977c" />
   <Project Path="Lesson1_11/Lesson1_11.vcxproj" Id="9074af5e-5f68-4dde-b5cf-2535b32321c5" />
   <Project Path="Lesson1_5/Lesson1_5.vcxproj" Id="7cfd9e81-0385-4155-9f7d-88159cd3e5c6" />
