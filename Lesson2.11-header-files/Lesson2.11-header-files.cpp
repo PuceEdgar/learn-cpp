@@ -6,6 +6,8 @@
 
 int main()
 {
+	int x{ 3 };
+
     std::cout << "Sum of 3 + 4 is " << add(3, 4) << "\n";
     return 0;
 }
