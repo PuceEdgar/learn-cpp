@@ -14,4 +14,5 @@
   <Project Path="Lesson4.3-objects-sizes/Lesson4.3-objects-sizes.vcxproj" Id="0f4d366e-6c89-4a29-8727-d52db0191548" />
   <Project Path="Lesson5.7-strings/Lesson5.7-strings.vcxproj" Id="485885f3-1d5f-4575-8fd3-7eefbcb358fd" />
   <Project Path="Lesson5.8-string-view/Lesson5.8-string-view.vcxproj" Id="96e9e309-7a49-44fd-b2e3-46cbbb7d2107" />
+  <Project Path="Lesson7.2-namespaces/Lesson7.2-namespaces.vcxproj" Id="41ba19e2-13e7-44bf-8427-518f3a3006c7" />
 </Solution>
